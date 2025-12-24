@@ -1,0 +1,2 @@
+type:: [[Area]]
+icon:: 📈
