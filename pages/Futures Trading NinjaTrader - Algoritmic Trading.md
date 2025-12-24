@@ -1,5 +1,4 @@
 type:: [[project]]
-status:: [[Dev]]
+area:: [[Trading]] 
+status:: [[Dev]] 
 priority:: [[prio-A]]
-
--

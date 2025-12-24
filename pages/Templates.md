@@ -4,7 +4,7 @@ template-including-parent:: false
 	- type:: [[project]]
 	  area:: [[Area]]
 	  status:: [[Idea]]
-	  priority:: [[C]]
+	  priority:: [[prio-C]]
 - ## Area Template
   template:: Area
   template-including-parent:: false
