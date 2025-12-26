@@ -11,3 +11,9 @@ template-including-parent:: false
 	- type:: [[Area]]
 	  icon:: 
 	  description::
+- ## Product Template
+  template:: Product
+  template-including-parent:: false
+	- type:: [[Product]]
+	  icon:: 
+	  description::
