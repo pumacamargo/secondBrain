@@ -1,4 +1,4 @@
 type:: [[project]]
 area:: [[ecomerce]] 
 status:: [[Idea]]
-priority:: [[prio-B]]
+priority:: [[prio-A]]

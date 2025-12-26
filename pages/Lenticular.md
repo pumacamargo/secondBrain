@@ -1,5 +1,4 @@
-- /
-- type:: [[project]]
-  area:: [[ecomerce]] 
-  status:: [[Dev]] 
-  priority:: [[prio-B]]
+type:: [[project]]
+area:: [[ecomerce]] 
+status:: [[Dev]] 
+priority:: [[prio-A]]

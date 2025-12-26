@@ -1,4 +1,4 @@
 type:: [[project]]
-area:: [[Trading]] 
-status:: [[Dev]] 
+area:: [[comerce]] 
+status:: [[Idea]]
 priority:: [[prio-B]]

@@ -41,6 +41,33 @@
 :collapsedHeight 272.99997588734567
 :nonce 1766711524873}}
 :block/updated-at 1766711652126} 
+{:block/created-at 1766711642320
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "pink"
+:collapsed true
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "Futures Trading NinjaTrader - Algoritmic Trading"
+:scaleLevel "md"
+:fill "pink"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [-760 -3336]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622078}}
+:block/updated-at 1766711642320} 
 {:block/created-at 1766711637921
 :block/properties 
 {:ls-type :whiteboard-shape
@@ -68,34 +95,7 @@
 :parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
 :collapsedHeight 205.99995177469134
 :nonce 1766711595879}}
-:block/updated-at 1766711637921} 
-{:block/created-at 1766711642320
-:block/properties 
-{:ls-type :whiteboard-shape
-:logseq.tldraw.shape 
-{:blockType "P"
-:stroke "pink"
-:collapsed true
-:borderRadius 8
-:index 2
-:scale [1 1]
-:pageId "Futures Trading NinjaTrader - Algoritmic Trading"
-:scaleLevel "md"
-:fill "pink"
-:compact false
-:isAutoResizing false
-:type "logseq-portal"
-:size [400 40]
-:strokeType "line"
-:strokeWidth 2
-:opacity 1
-:id "1e03f440-e1f8-11f0-985d-87a7ea1a75bd"
-:noFill false
-:point [-760 -3336]
-:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
-:collapsedHeight 200.99989149305554
-:nonce 1766711622078}}
-:block/updated-at 1766711642320})
+:block/updated-at 1766711637921})
 :pages (
 {:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
 :block/properties 
