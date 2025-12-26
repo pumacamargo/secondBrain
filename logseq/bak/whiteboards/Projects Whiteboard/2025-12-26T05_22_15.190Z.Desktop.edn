@@ -1,0 +1,557 @@
+{:blocks (
+{:block/content "TRADING"
+:block/format :markdown
+:block/left
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/parent
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694b88ab-6db1-4fc5-9add-2b9576c58d54"}
+{:block/content "CONTENT CREATION"
+:block/format :markdown
+:block/left
+{:block/uuid #uuid "694b88ab-6db1-4fc5-9add-2b9576c58d54"}
+:block/parent
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f"}
+{:block/content "SPRITE"
+:block/format :markdown
+:block/left
+{:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f"}
+:block/parent
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f1"}
+{:block/content "FINANCE"
+:block/format :markdown
+:block/left
+{:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f1"}
+:block/parent
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f2"}
+{:block/content "DIGITAL"
+:block/format :markdown
+:block/left
+{:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f2"}
+:block/parent
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f3"}
+{:block/content "CONTENT CREATION"
+:block/format :markdown
+:block/left
+{:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f3"}
+:block/parent
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f4"}
+{:block/content "COPESO"
+:block/format :markdown
+:block/left
+{:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f4"}
+:block/parent
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f5"}
+{:block/content "DEV"
+:block/format :markdown
+:block/left
+{:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f5"}
+:block/parent
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f6"}
+{:block/content "GAVICE"
+:block/format :markdown
+:block/left
+{:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f6"}
+:block/parent
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f7"}
+{:block/created-at 1766711652126
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#F97316"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Trading"
+:scaleLevel "lg"
+:fill "#F97316"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [144 60]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e3fdacf0-e1f7-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [-200 -100]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 272.99997588734567
+:nonce 1766711524873}}
+:block/updated-at 1766711652126}
+{:block/created-at 1766711637921
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#EC4899"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Sheet - Short Form Content"
+:scaleLevel "md"
+:fill "#EC4899"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [180 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0e627d40-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [-200 40]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 205.99995177469134
+:nonce 1766711595879}}
+:block/updated-at 1766711637921}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#EC4899"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "Story Aniú - Character Copyright"
+:scaleLevel "md"
+:fill "#EC4899"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [200 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [-200 100]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622078}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#F59E0B"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 3
+:scale [1 1]
+:pageId "Agency Website & Development"
+:scaleLevel "md"
+:fill "#F59E0B"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [220 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "2e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [100 -100]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622079}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#F59E0B"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 4
+:scale [1 1]
+:pageId "Web Page AI - Agency"
+:scaleLevel "md"
+:fill "#F59E0B"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [180 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "3e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [100 40]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622080}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#06B6D4"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 5
+:scale [1 1]
+:pageId "Fiscal Accounting - Finances"
+:scaleLevel "md"
+:fill "#06B6D4"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [200 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "4e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [-200 180]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622081}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#06B6D4"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 6
+:scale [1 1]
+:pageId "Kitchen Cardboard - Home Stuff"
+:scaleLevel "md"
+:fill "#06B6D4"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [220 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "5e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [-200 240]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622082}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#06B6D4"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 7
+:scale [1 1]
+:pageId "Kids Craft"
+:scaleLevel "md"
+:fill "#06B6D4"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [140 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "6e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [-200 300]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622083}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#10B981"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 8
+:scale [1 1]
+:pageId "Craft - Digital Content"
+:scaleLevel "md"
+:fill "#10B981"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [180 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "7e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [100 180]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622084}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#10B981"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 9
+:scale [1 1]
+:pageId "Survival Game - Gaming"
+:scaleLevel "md"
+:fill "#10B981"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [190 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "8e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [100 240]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622085}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#8B5CF6"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 10
+:scale [1 1]
+:pageId "Pricing Classes"
+:scaleLevel "md"
+:fill "#8B5CF6"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [160 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "9e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [100 300]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622086}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#8B5CF6"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 11
+:scale [1 1]
+:pageId "Nachos - Snacks & Appetizers"
+:scaleLevel "md"
+:fill "#8B5CF6"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [220 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ae03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [400 -100]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622087}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#8B5CF6"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 12
+:scale [1 1]
+:pageId "Chips & Sauces"
+:scaleLevel "md"
+:fill "#8B5CF6"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [160 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "be03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [400 40]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622088}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#8B5CF6"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 13
+:scale [1 1]
+:pageId "Ceviche - Mexican Cuisine"
+:scaleLevel "md"
+:fill "#8B5CF6"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [180 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ce03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [400 100]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622089}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#8B5CF6"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 14
+:scale [1 1]
+:pageId "Chilaquiles Rancheros - Breakfast"
+:scaleLevel "md"
+:fill "#8B5CF6"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [250 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "de03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [400 160]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622090}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#EC4899"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 15
+:scale [1 1]
+:pageId "3D Printing"
+:scaleLevel "md"
+:fill "#EC4899"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [140 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "ee03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [400 240]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622091}}
+:block/updated-at 1766711642320}
+{:block/created-at 1766711642320
+:block/properties
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape
+{:blockType "P"
+:stroke "#EC4899"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 16
+:scale [1 1]
+:pageId "Chimarron de Lioma"
+:scaleLevel "md"
+:fill "#EC4899"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [180 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "fe03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [400 300]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622092}}
+:block/updated-at 1766711642320})
+:pages (
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:name "projects"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("e3fdacf0-e1f7-11f0-985d-87a7ea1a75bd" "0e627d40-e1f8-11f0-985d-87a7ea1a75bd" "1e03f440-e1f8-11f0-985d-87a7ea1a75bd")}}
+:block/updated-at 1766711652126
+:block/created-at 1766555245121
+:block/type "whiteboard"
+:block/name "projects whiteboard"
+:block/original-name "Projects Whiteboard"})}

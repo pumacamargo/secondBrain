@@ -1,0 +1,115 @@
+{:blocks (
+{:block/content "De"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/parent 
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694b88ab-6db1-4fc5-9add-2b9576c58d54"} 
+{:block/content "Trading"
+:block/format :markdown
+:block/left 
+{:block/uuid #uuid "694b88ab-6db1-4fc5-9add-2b9576c58d54"}
+:block/parent 
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"}
+:block/uuid #uuid "694d3d23-dd76-426e-b32f-110854bed65f"} 
+{:block/created-at 1766711652126
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "yellow"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 0
+:scale [1 1]
+:pageId "Trading"
+:scaleLevel "lg"
+:fill "yellow"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [144 60]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "e3fdacf0-e1f7-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [-664 -3504]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 272.99997588734567
+:nonce 1766711524873}}
+:block/updated-at 1766711652126} 
+{:block/created-at 1766711637921
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "pink"
+:rotation 0
+:collapsed true
+:borderRadius 8
+:index 1
+:scale [1 1]
+:pageId "Options Trading Webull - Wheel Stradegy"
+:scaleLevel "md"
+:fill "pink"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [344 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "0e627d40-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [-760 -3408]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 205.99995177469134
+:nonce 1766711595879}}
+:block/updated-at 1766711637921} 
+{:block/created-at 1766711642320
+:block/properties 
+{:ls-type :whiteboard-shape
+:logseq.tldraw.shape 
+{:blockType "P"
+:stroke "pink"
+:collapsed true
+:borderRadius 8
+:index 2
+:scale [1 1]
+:pageId "Futures Trading NinjaTrader - Algoritmic Trading"
+:scaleLevel "md"
+:fill "pink"
+:compact false
+:isAutoResizing false
+:type "logseq-portal"
+:size [400 40]
+:strokeType "line"
+:strokeWidth 2
+:opacity 1
+:id "1e03f440-e1f8-11f0-985d-87a7ea1a75bd"
+:noFill false
+:point [-760 -3336]
+:parentId "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:collapsedHeight 200.99989149305554
+:nonce 1766711622078}}
+:block/updated-at 1766711642320})
+:pages (
+{:block/uuid #uuid "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:block/properties 
+{:ls-type :whiteboard-page
+:logseq.tldraw.page 
+{:id "694b7e6d-fc2f-4942-ae64-eb3c6a69efc1"
+:name "projects"
+:bindings 
+{}
+:nonce 1
+:assets []
+:shapes-index ("e3fdacf0-e1f7-11f0-985d-87a7ea1a75bd" "0e627d40-e1f8-11f0-985d-87a7ea1a75bd" "1e03f440-e1f8-11f0-985d-87a7ea1a75bd")}}
+:block/updated-at 1766711652126
+:block/created-at 1766555245121
+:block/type "whiteboard"
+:block/name "projects whiteboard"
+:block/original-name "Projects Whiteboard"})}
